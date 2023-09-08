@@ -20,7 +20,8 @@ DARK BLUE: #1D3557
 
 body {
     margin: 0 auto;
-   
+    width: 720px;
+    height: 343px;
     text-align: center;
     font-family: shadows;  
     font-size: 24px;
