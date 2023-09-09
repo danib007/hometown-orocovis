@@ -40,6 +40,10 @@ img {
     border: 5px solid #1D3557;
 }
 
+img:hover {
+    opacity: 80%;
+}
+
 #title {
     font-family: bromello;
     font-size: 50px;
